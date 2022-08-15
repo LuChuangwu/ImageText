@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetImageContent", "GetImageContent\GetImageContent.csproj", "{7A20BC7E-8A52-4B27-998F-D60B5401D9B3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GetImageText", "GetImageText\GetImageText.vdproj", "{6F9E32DA-7678-4B64-ADFF-7F77B7A828CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A20BC7E-8A52-4B27-998F-D60B5401D9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A20BC7E-8A52-4B27-998F-D60B5401D9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A20BC7E-8A52-4B27-998F-D60B5401D9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A20BC7E-8A52-4B27-998F-D60B5401D9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9E32DA-7678-4B64-ADFF-7F77B7A828CD}.Debug|Any CPU.ActiveCfg = Debug
+		{6F9E32DA-7678-4B64-ADFF-7F77B7A828CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C41FF14-B437-47EF-8081-68EDDA69F13F}
+	EndGlobalSection
+EndGlobal
